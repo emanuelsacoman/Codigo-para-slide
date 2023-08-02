@@ -1,0 +1,15 @@
+C:\Users\emanu\Desktop\codigos\c# teste\bin\Debug\net6.0\c# teste.exe
+C:\Users\emanu\Desktop\codigos\c# teste\bin\Debug\net6.0\c# teste.deps.json
+C:\Users\emanu\Desktop\codigos\c# teste\bin\Debug\net6.0\c# teste.runtimeconfig.json
+C:\Users\emanu\Desktop\codigos\c# teste\bin\Debug\net6.0\c# teste.dll
+C:\Users\emanu\Desktop\codigos\c# teste\bin\Debug\net6.0\c# teste.pdb
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.AssemblyInfo.cs
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.dll
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\refint\c# teste.dll
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.pdb
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\c# teste.genruntimeconfig.cache
+C:\Users\emanu\Desktop\codigos\c# teste\obj\Debug\net6.0\ref\c# teste.dll
